@@ -1,0 +1,11 @@
+{
+	"$schema": "https://neon.com/functions/registry/schemas/template.schema.json",
+	"id": "portfolio-hello",
+	"provider": "mezotv",
+	"title": "Portfolio hello",
+	"description": "Loaded from mezotv/portfolio on GitHub.",
+	"categories": ["api"],
+	"layout": "router",
+	"dependencies": [],
+	"environment": []
+}
